@@ -1,1 +1,2 @@
-wan lab wan nation
+input: POS2 
+use pos_db2
